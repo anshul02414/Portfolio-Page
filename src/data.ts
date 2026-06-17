@@ -23,7 +23,7 @@ export const heroData = {
     linkedin: 'https://www.linkedin.com/in/anshul-kumawat-833337410/',
     behance: 'https://github.com/anshul02414',
   },
-  cvUrl: '/images/Anshul Resume.pdf',
+  cvUrl: '/images/Anshul_Resume.pdf',
 };
 
 export const statItems: StatItem[] = [
